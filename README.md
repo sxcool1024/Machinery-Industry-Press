@@ -1,3 +1,10 @@
+# 本项目预计分享数千册机械工业出版社原版电子书，所有电子书全部为PDF格式，点击“当当网查看”可一键搜索查看关于书的简介。整理不易，且看且珍惜。
+* **目前已更新498册电子书，还会持续更新**
+* **所有文件解压密码加电报群发送“密码”两字获取**
+* **发现本项目有任何问题的，可随时进电报群交流反馈：https://t.me/sxcool1024g**
+* **如果感觉内容实用的话，也请动动手指分享此项目，让更多的人看到，把下边这个链接分享出去即可：**<br>
+**https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md**
+## IT方面part1（共498册）
 *	1、	“互联网+”转型实战：解码中国管理模式.pdf	[【下载】](https://474b.com/file/25713053-435307645)	[【当当网查看】](http://search.dangdang.com/?key=%“互联网+”转型实战：解码中国管理模式%&act=input)
 *	2、	“快”钱游戏：关于投资的22个真实故事.pdf	[【下载】](https://474b.com/file/25713053-435307632)	[【当当网查看】](http://search.dangdang.com/?key=%“快”钱游戏：关于投资的22个真实故事%&act=input)
 *	3、	“偷懒”的技术：打造财务Excel达人.pdf	[【下载】](https://474b.com/file/25713053-435307631)	[【当当网查看】](http://search.dangdang.com/?key=%“偷懒”的技术：打造财务Excel达人%&act=input)
