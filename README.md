@@ -1,5 +1,6 @@
 # 机械工业出版社原版电子书分享
-*	“互联网+”转型实战：解码中国管理模式.pdf	[下载](https://474b.com/file/25713053-435307645)	[当当网查看](http://search.dangdang.com/?key=%“互联网+”转型实战：解码中国管理模式%&act=input）
+*	“互联网+”转型实战：解码中国管理模式.pdf	[下载](https://474b.com/file/25713053-435307645)	
+[当当网查看](http://search.dangdang.com/?key=%“互联网+”转型实战：解码中国管理模式%&act=input）
 *	“快”钱游戏：关于投资的22个真实故事.pdf	[下载](https://474b.com/file/25713053-435307632)	[当当网查看](http://search.dangdang.com/?key=%“快”钱游戏：关于投资的22个真实故事%&act=input）
 *	“偷懒”的技术：打造财务Excel达人.pdf	[下载](https://474b.com/file/25713053-435307631)	[当当网查看](http://search.dangdang.com/?key=%“偷懒”的技术：打造财务Excel达人%&act=input）
 *	3ds Max & VRay灯光-材质-渲染实例精讲.pdf	[下载](https://474b.com/file/25713053-435307599)	[当当网查看](http://search.dangdang.com/?key=%3dsMax&VRay灯光-材质-渲染实例精讲%&act=input）
