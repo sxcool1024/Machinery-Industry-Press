@@ -491,7 +491,7 @@
 *	491、	宗庆后：笃行者.pdf	[【下载】](https://474b.com/file/25713053-435279878)	[【当当网查看】](http://search.dangdang.com/?key=%宗庆后：笃行者%&act=input)
 *	492、	走出抑郁症：一个抑郁症患者的成功自救.pdf	[【下载】](https://474b.com/file/25713053-435279867)	[【当当网查看】](http://search.dangdang.com/?key=%走出抑郁症：一个抑郁症患者的成功自救%&act=input)
 *	493、	组织成长论.pdf	[【下载】](https://474b.com/file/25713053-435279863)	[【当当网查看】](http://search.dangdang.com/?key=%组织成长论%&act=input)
-*	494、	组织管理案例与公案教学(第一季).pdf	[【下载】](https://474b.com/file/25713053-435279801)	[【当当网查看】](http://search.dangdang.com/?key=%组织管理案例与公案教学input第一季input%&act=input)
+*	494、	组织管理案例与公案教学(第一季).pdf	[【下载】](https://474b.com/file/25713053-435279801)	[【当当网查看】](http://search.dangdang.com/?key=%组织管理案例与公案教学第一季%&act=input)
 *	495、	组织设计：寻找实现组织价值的规律.pdf	[【下载】](https://474b.com/file/25713053-435279800)	[【当当网查看】](http://search.dangdang.com/?key=%组织设计：寻找实现组织价值的规律%&act=input)
 *	496、	最后的完美世界.pdf	[【下载】](https://474b.com/file/25713053-435279798)	[【当当网查看】](http://search.dangdang.com/?key=%最后的完美世界%&act=input)
 *	497、	最新黑客攻防从入门到精通.pdf	[【下载】](https://474b.com/file/25713053-435279793)	[【当当网查看】](http://search.dangdang.com/?key=%最新黑客攻防从入门到精通%&act=input)
