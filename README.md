@@ -32,7 +32,7 @@
 *	32、	平台经济.pdf	[【下载】](https://474b.com/file/25713053-435307063)	[【当当网查看】](http://search.dangdang.com/?key=%平台经济%&act=input)
 *	33、	平台时代.pdf	[【下载】](https://474b.com/file/25713053-435307059)	[【当当网查看】](http://search.dangdang.com/?key=%平台时代%&act=input)
 *	34、	破局：企业管理案例分析.pdf	[【下载】](https://474b.com/file/25713053-435307056)	[【当当网查看】](http://search.dangdang.com/?key=%破局：企业管理案例分析%&act=input)
-*	35、	期货市场研究成果汇编（2014～2016）.pdf	[【下载】](https://474b.com/file/25713053-435307044)	[【当当网查看】](http://search.dangdang.com/?key=%期货市场研究成果汇编input2014～2016input%&act=input)
+*	35、	期货市场研究成果汇编（2014～2016）.pdf	[【下载】](https://474b.com/file/25713053-435307044)	[【当当网查看】](http://search.dangdang.com/?key=%期货市场研究成果汇编2014～2016%&act=input)
 *	36、	期权波动率交易策略.pdf	[【下载】](https://474b.com/file/25713053-435307031)	[【当当网查看】](http://search.dangdang.com/?key=%期权波动率交易策略%&act=input)
 *	37、	期权交易实战一本精.pdf	[【下载】](https://474b.com/file/25713053-435307026)	[【当当网查看】](http://search.dangdang.com/?key=%期权交易实战一本精%&act=input)
 *	38、	奇点艺术：未来艺术在科技奇点冲击下的蜕变.pdf	[【下载】](https://474b.com/file/25713053-435306991)	[【当当网查看】](http://search.dangdang.com/?key=%奇点艺术：未来艺术在科技奇点冲击下的蜕变%&act=input)
