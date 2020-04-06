@@ -507,7 +507,7 @@
 ## IT方面part2（共498册）
 *	1、	Scratch趣味编程：逻辑思维培养与训练.pdf	[【下载】](https://474b.com/file/25713053-435347918)	[【当当网查看】](http://search.dangdang.com/?key=%Scratch趣味编程：逻辑思维培养与训练%&act=input)
 *	2、	Serverless架构.pdf	[【下载】](https://474b.com/file/25713053-435347907)	[【当当网查看】](http://search.dangdang.com/?key=%Serverless架构%&act=input)
-*	3、	SolidWorks 2012中文版机械设计完全自学手册.pdf	[【下载】](https://474b.com/file/25713053-435347893)	[【当当网查看】](http://search.dangdang.com/?key=%SolidWorks 2012中文版机械设计完全自学手册%&act=input)
+*	3、	SolidWorks 2012中文版机械设计完全自学手册.pdf	[【下载】](https://474b.com/file/25713053-435347893)[【当当网查看】](http://search.dangdang.com/?key=%SolidWorks 2012中文版机械设计完全自学手册%&act=input)
 *	4、	SolidWorks 2014高级应用教程.pdf	[【下载】](https://474b.com/file/25713053-435347860)	[【当当网查看】](http://search.dangdang.com/?key=%SolidWorks 2014高级应用教程%&act=input)
 *	5、	Solidworks 2015宝典.pdf	[【下载】](https://474b.com/file/25713053-435347842)	[【当当网查看】](http://search.dangdang.com/?key=%Solidworks 2015宝典%&act=input)
 *	6、	SolidWorks 2015中文版新手从入门到精通.pdf	[【下载】](https://474b.com/file/25713053-435347831)	[【当当网查看】](http://search.dangdang.com/?key=%SolidWorks 2015中文版新手从入门到精通%&act=input)
