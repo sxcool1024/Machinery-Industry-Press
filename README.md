@@ -4,7 +4,7 @@
 * **点下载会发现网盘中显示的书名有时候是一串字符，这是网盘最近在升级所致，请放心下载**
 * **极个别书点当当网查看会查不到结果（这种情况极少），是因为该书已经在当当网下架，大家可自行到亚马逊、京东等网站查询**
 * **如果感觉内容实用的话，也请动动手指分享此项目，让更多的人看到，把下边这个链接分享出去即可：**<br>
-* **https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md**
+**https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md**
 ### [IT方面part1共计498册(已更完)](/IT方面图书/part1.md)
 ### [IT方面part2共计498册(已更完)](/IT方面图书/part2.md)
 ### [IT方面part3共计491册(已更完)](/IT方面图书/part3.md)
