@@ -1,4 +1,4 @@
-[【返回目录】](/README.md)[【一键到底】](#底)
+[【一键到底】](#底)[【返回目录】](/README.md)
 # IT方面part1（共498册）
 *	1、	“互联网+”转型实战：解码中国管理模式.pdf	[【下载】](https://474b.com/file/25713053-435307645)	[【当当网查看】](http://search.dangdang.com/?key=%“互联网+”转型实战：解码中国管理模式%&act=input)
 *	2、	“快”钱游戏：关于投资的22个真实故事.pdf	[【下载】](https://474b.com/file/25713053-435307632)	[【当当网查看】](http://search.dangdang.com/?key=%“快”钱游戏：关于投资的22个真实故事%&act=input)
