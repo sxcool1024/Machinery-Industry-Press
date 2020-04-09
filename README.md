@@ -20,5 +20,6 @@ https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md
 ### [英语(待更新)](/英语/README.md)
 ### [营销共计64册(已更完)](/营销/README.md)
 ### 。。。待更新
+### 福利：建议大家可以先看看这本书《如何阅读一本书》[免费下载](https://www.lanzous.com/ib5zdti)
 ## 欢迎加入电报群交流：https://t.me/sxcool1024g
 
