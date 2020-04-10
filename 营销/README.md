@@ -1,6 +1,6 @@
 [【一键到底】](#底)[【返回目录】](/README.md)
 # 营销（共64册）
-*	1、	100%成交的销售心理学.pdf	 [【下载】](https://474b.com/file/25713053-435953807)	[【当当网查看】](http://search.dangdang.com/?key=%100%成交的销售心理学%&act=input)
+*	1、	100%成交的销售心理学.pdf	 [【下载】](https://474b.com/file/25713053-435953807)	[【当当网查看】](http://search.dangdang.com/?key=%100成交的销售心理学%&act=input)
 *	2、	P2P微信营销全攻略.1.pdf	 [【下载】](https://474b.com/file/25713053-435953869)	[【当当网查看】](http://search.dangdang.com/?key=%P2P微信营销全攻略.1%&act=input)
 *	3、	P2P微信营销全攻略.pdf	 [【下载】](https://474b.com/file/25713053-435953935)	[【当当网查看】](http://search.dangdang.com/?key=%P2P微信营销全攻略%&act=input)
 *	4、	餐饮O2O你也学得会.pdf	 [【下载】](https://474b.com/file/25713053-435953968)	[【当当网查看】](http://search.dangdang.com/?key=%餐饮O2O你也学得会%&act=input)
