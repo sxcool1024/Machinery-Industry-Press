@@ -1,4 +1,5 @@
 [【一键到底】](#底)[【返回目录】](/README.md)
+# 管理学（共275册）
 *	1、	1_2TPM.pdf	[【下载】](https://474b.com/file/25713053-435925094)	[【当当网查看】](http://search.dangdang.com/?key=%1_2TPM%&act=input)
 *	2、	6秒钟情商.pdf	[【下载】](https://474b.com/file/25713053-435925101)	[【当当网查看】](http://search.dangdang.com/?key=%6秒钟情商%&act=input)
 *	3、	7天学会汽车销售第2版.pdf	[【下载】](https://474b.com/file/25713053-435925141)	[【当当网查看】](http://search.dangdang.com/?key=%7天学会汽车销售第2版%&act=input)
