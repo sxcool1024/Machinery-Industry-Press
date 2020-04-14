@@ -8,14 +8,14 @@
 * 在这个知识、资源付费的年代，之前的免费分享可能也是一种错误，才导致被一些无聊的人举报，所以从2020年4月9日起，本项目和[WANIMAL](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)资源全部改为付费分享，两个项目的密码都是一样的，密码也适用后期创建的其它付费项目，所以请保存好密码，不要在任何地方传播。需要访问密码和解压缩密码的，[扫码](https://www.nsaimg.com/2020/04/08/5e8deb61f2b73.jpg)关注微信公众号：[思想酷1024](https://www.nsaimg.com/2020/04/08/5e8deb61f2b73.jpg)，[赞赏](https://www.nsaimg.com/2020/04/09/5e8e926b73724.jpg)文章[《你想拥有的神级Spotify》](http://mp.weixin.qq.com/s?__biz=MzI5NDQ3ODA3NA==&mid=100000094&idx=1&sn=cea0fe244b2aac7b13bbb8a0887f1406&chksm=6c6308cb5b1481dd0ff631786134a7f3209d95164bc58cd51fb7f4cc2d12176148cf40ec735d#rd)后即可自动获得访问密码和解压缩密码。[赞赏](https://www.nsaimg.com/2020/04/09/5e8e926b73724.jpg)金额随意选，如果您要是觉得提供的资源符合您的需求，帮助到了您，想多[赞赏](https://www.nsaimg.com/2020/04/09/5e8e926b73724.jpg)点，我当然是非常感谢~~~
 * 如果感觉内容实用的话，也请动动手指分享此项目，让更多的人看到，把下边这个链接分享出去即可：<br>
 https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md
-### [IT方面part1共计498册(已更完)](/IT方面图书/part1.md)
-### [IT方面part2共计498册(已更完)](/IT方面图书/part2.md)
-### [IT方面part3共计491册(已更完)](/IT方面图书/part3.md)
-### [心理学共计23册(已更完)](/心理/README.md)
-### [管理共计275册(已更完)](/管理/README.md)
-### [经济共计104册(已更完)](/经济/README.md)
-### [营销共计64册(已更完)](/营销/README.md)
-### [英语(待更新)](/英语/README.md)
+[IT方面part1共计498册(已更完)](/IT方面图书/part1.md)
+[IT方面part2共计498册(已更完)](/IT方面图书/part2.md)
+[IT方面part3共计491册(已更完)](/IT方面图书/part3.md)
+[心理学共计23册(已更完)](/心理/README.md)
+[管理共计275册(已更完)](/管理/README.md)
+[经济共计104册(已更完)](/经济/README.md)
+[营销共计64册(已更完)](/营销/README.md)
+[英语(待更新)](/英语/README.md)
 * 日常英语读物
 * 英语考级
 * 出国英语考试
