@@ -17,6 +17,9 @@ https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md
   * [日常英语读物共计59册（已更完）](/英语/日常英语读物.md)
   * [英语考级共计36册（已更完）](/英语/英语考级.md)
   * [出国英语考试共计24册（已更完）](/英语/出国英语考试.md)
+* [机械(待更新)](/机械/README.md)
+* [汽车(待更新)](/汽车/README.md)
+* [种植(待更新)](/种植/README.md)
 ### 。。。待更新
 ## 欢迎加入电报群交流：https://t.me/sxcool1024g
 
