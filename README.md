@@ -19,8 +19,6 @@ https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md
   * 日常英语读物
   * 英语考级
   * 出国英语考试
-    * 托福
-    * 雅思
   * 职称+考博
 ### 。。。待更新
 ### 福利：建议大家可以先看看这本书《如何阅读一本书》[免费下载](https://www.lanzous.com/ib5zdti)，这是一本外文读物翻译本。
