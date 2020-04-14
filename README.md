@@ -19,7 +19,7 @@ https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md
   * [出国英语考试共计24册（已更完）](/英语/出国英语考试.md)
 * [家用电器及办公设备(待更新)](/家用电器及办公设备/README.md)
 * [电子技术(待更新)](/电子技术/README.md)
-* [机械基础(待更新)](/机械基础/README.md)
+* [机械基础共计54册(已更完)](/机械基础/README.md)
 * [机械设计(待更新)](/机械设计/README.md)
 ### 。。。待更新
 ## 欢迎加入电报群交流：https://t.me/sxcool1024g
