@@ -15,9 +15,9 @@ https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md
 * [经济共计104册(已更完)](/经济/README.md)
 * [营销共计64册(已更完)](/营销/README.md)
 * [英语(待更新)](/英语/README.md)
-  * 日常英语读物
-  * 英语考级
-  * 出国英语考试
+  * [日常英语读物](/英语/日常英语读物.md)
+  * [英语考级](/英语/英语考级.md)
+  * [出国英语考试](/英语/出国英语考试.md)
 ### 。。。待更新
 ## 欢迎加入电报群交流：https://t.me/sxcool1024g
 
