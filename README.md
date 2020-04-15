@@ -1,7 +1,6 @@
 `2020年4月15日更新：`<br>
 `机械设计共计118册`<br>
 `机械基础共计54册`<br>
-<div class="attribution-block"><a href="http://dig.ccmixter.org/files/airtone/60674">reNovation</a> by airtone (c) copyright 2019 Licensed under a Creative Commons <a href="http://creativecommons.org/licenses/by/3.0/">Attribution (3.0)</a> license. </div>
 `家用电器及办公设备共计159册，目前共计2413册图书`<br>
 **点击文中蓝色字可查看对应内容，请仔细阅读以下说明：**
 * 本项目预计分享数千册电子书，98%以上为机械工业出版社原版电子书，其余为其它出版社出版的一些经典外文读物的原版译本电子书，外文译本读物大多为扫描版，可能没有机械工业出版社原版工整清晰，不过不影响阅读。电子书全部为PDF格式，点击“当当网查看”可一键搜索查看关于书的简介和价格。整理不易，且读且珍惜。人生就是个不断学习强化自己的过程。
