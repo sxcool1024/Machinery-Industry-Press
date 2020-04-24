@@ -14,10 +14,6 @@ https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md
 * [管理共计275册(已更完)](/管理/README.md)
 * [经济共计104册(已更完)](/经济/README.md)
 * [营销共计64册(已更完)](/营销/README.md)
-<details>
-  <summary>[英语共计119册(已更完)](/英语/README.md)</summary>
-  iuap design [日常英语读物共计59册（已更完）](/英语/日常英语读物.md)
-</details>
 * [英语共计119册(已更完)](/英语/README.md)
   * [日常英语读物共计59册（已更完）](/英语/日常英语读物.md)
   * [英语考级共计36册（已更完）](/英语/英语考级.md)
