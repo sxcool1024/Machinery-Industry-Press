@@ -26,4 +26,15 @@ https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md
 # 电报交流群：https://t.me/sxcool1024g
 ![扫码进电报群](https://www.nsaimg.com/2020/04/17/2a6cb36afc25f.jpg "扫码进电报群")
 [回到顶部](#readme)
+## 问答
 
+<details>
+  <summary>什么是iuap design</summary>
+  iuap design 是用友网络FED团队开发的企业级应用前端集成解决方案。
+</details>
+
+<details>
+  <summary>什么是tinper</summary>
+
+`tinper`是开源前端技术平台。
+</details>
