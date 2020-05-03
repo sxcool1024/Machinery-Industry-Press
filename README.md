@@ -25,10 +25,3 @@ https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md
 ### 。。。待更新
 # 电报交流群：https://t.me/sxcool1024g
 [回到顶部](#readme)
-
-## 问答
-<details>
-  <summary>什么是tinper</summary>
-
-`tinper`是开源前端技术平台。
-</details>
