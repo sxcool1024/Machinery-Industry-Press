@@ -1,4 +1,4 @@
-[【一键到底】](#底)[【返回目录】](/README.md)
+[【一键到底】](#底)[【返回目录】](/README.md#目录)
 # IT方面part2（共498册）
 *	1、	Scratch趣味编程：逻辑思维培养与训练.pdf	[【下载】](https://474b.com/file/25713053-435347918)	[【当当网查看】](http://search.dangdang.com/?key=%Scratch趣味编程：逻辑思维培养与训练%&act=input)
 *	2、	Serverless架构.pdf	[【下载】](https://474b.com/file/25713053-435347907)	[【当当网查看】](http://search.dangdang.com/?key=%Serverless架构%&act=input)
@@ -498,5 +498,5 @@
 *	496、	面向中国制造2025的智造观.pdf	[【下载】](https://474b.com/file/25713053-435323399)	[【当当网查看】](http://search.dangdang.com/?key=%面向中国制造2025的智造观%&act=input)
 *	497、	秒懂力.pdf	[【下载】](https://474b.com/file/25713053-435323388)	[【当当网查看】](http://search.dangdang.com/?key=%秒懂力%&act=input)
 *	498、	内容分发网络.pdf	[【下载】](https://474b.com/file/25713053-435323381)	[【当当网查看】](http://search.dangdang.com/?key=%内容分发网络%&act=input)
-<br>[【回到顶部】](#readme)[【返回目录】](/README.md)
+<br>[【回到顶部】](#readme)[【返回目录】](/README.md#目录)
 ###### 底
