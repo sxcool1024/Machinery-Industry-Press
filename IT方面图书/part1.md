@@ -1,4 +1,4 @@
-[【一键到底】](#底) <a href="http://www.baidu.com">【返回目录】</a>
+[【一键到底】](#底) <a href="https://github.com/sxcool1024/Machinery-Industry-Press/blob/master/README.md#it%E6%96%B9%E9%9D%A2part1%E5%85%B1%E8%AE%A1498%E5%86%8C%E5%B7%B2%E6%9B%B4%E5%AE%8C">【返回目录】</a>
 # IT方面part1（共498册）
 *	1、	“互联网+”转型实战：解码中国管理模式.pdf	[【下载】](https://474b.com/file/25713053-435307645)	[【当当网查看】](http://search.dangdang.com/?key=%“互联网+”转型实战：解码中国管理模式%&act=input)
 *	2、	“快”钱游戏：关于投资的22个真实故事.pdf	[【下载】](https://474b.com/file/25713053-435307632)	[【当当网查看】](http://search.dangdang.com/?key=%“快”钱游戏：关于投资的22个真实故事%&act=input)
@@ -498,5 +498,5 @@
 *	496、	最后的完美世界.pdf	[【下载】](https://474b.com/file/25713053-435279798)	[【当当网查看】](http://search.dangdang.com/?key=%最后的完美世界%&act=input)
 *	497、	最新黑客攻防从入门到精通.pdf	[【下载】](https://474b.com/file/25713053-435279793)	[【当当网查看】](http://search.dangdang.com/?key=%最新黑客攻防从入门到精通%&act=input)
 *	498、	做踏踏实实的企业家：周其仁随访以色列七夕谈.pdf	[【下载】](https://474b.com/file/25713053-435279623)	[【当当网查看】](http://search.dangdang.com/?key=%做踏踏实实的企业家：周其仁随访以色列七夕谈%&act=input)
-<br>[【回到顶部】](#readme)[【返回目录】](/README.md#目录)
+<br>[【回到顶部】](#readme)<a href="https://github.com/sxcool1024/Machinery-Industry-Press/blob/master/README.md#it%E6%96%B9%E9%9D%A2part1%E5%85%B1%E8%AE%A1498%E5%86%8C%E5%B7%B2%E6%9B%B4%E5%AE%8C">【返回目录】</a>
 ###### 底
