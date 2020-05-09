@@ -1,4 +1,4 @@
-[【一键到底】](#底)[【返回目录】](/README.md)
+[【一键到底】](#底)[【返回目录】](/README.md#目录)
 # 心理学（共23册）
 *	1、	晨读十分钟.1.pdf	 [【下载】](https://474b.com/file/25713053-436016261)	[【当当网查看】](http://search.dangdang.com/?key=%晨读十分钟.1%&act=input)
 *	2、	晨读十分钟.pdf	 [【下载】](https://474b.com/file/25713053-436016328)	[【当当网查看】](http://search.dangdang.com/?key=%晨读十分钟%&act=input)
@@ -24,5 +24,5 @@
 *	22、	应对焦虑：九种消除焦虑、恐惧和忧虑的简单方法（原书第2版）.pdf	 [【下载】](https://474b.com/file/25713053-436017003)	[【当当网查看】](http://search.dangdang.com/?key=%应对焦虑：九种消除焦虑、恐惧和忧虑的简单方法（原书第2版）%&act=input)
 *	23、	站着说话：汪云青锐评集.pdf	 [【下载】](https://474b.com/file/25713053-436017014)	[【当当网查看】](http://search.dangdang.com/?key=%站着说话：汪云青锐评集%&act=input)
 
-<br>[【回到顶部】](#readme)[【返回目录】](/README.md)
+<br>[【回到顶部】](#readme)[【返回目录】](/README.md#目录)
 ###### 底
