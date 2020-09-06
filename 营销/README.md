@@ -1,4 +1,4 @@
-[【一键到底】](#底)[【返回目录】](/README.md)
+[【一键到底】](#底)<a href="../../../#营销共计64册已更完">【返回目录】</a>
 # 营销（共64册）
 *	1、	100%成交的销售心理学.pdf	 [【下载】](https://474b.com/file/25713053-435953807)	[【当当网查看】](http://search.dangdang.com/?key=%10100%成交的销售心理学%&act=input)
 *	2、	P2P微信营销全攻略1.pdf	 [【下载】](https://474b.com/file/25713053-435953869)	[【当当网查看】](http://search.dangdang.com/?key=%P2P微信营销全攻略%&act=input)
@@ -64,5 +64,5 @@
 *	62、	直播：引爆关注就这么简单.pdf	 [【下载】](https://474b.com/file/25713053-435981959)	[【当当网查看】](http://search.dangdang.com/?key=%直播：引爆关注就这么简单%&act=input)
 *	63、	重塑消费者—品牌关系.pdf	 [【下载】](https://474b.com/file/25713053-435981986)	[【当当网查看】](http://search.dangdang.com/?key=%重塑消费者—品牌关系%&act=input)
 *	64、	做人做事看德胜.pdf	 [【下载】](https://474b.com/file/25713053-435982011)	[【当当网查看】](http://search.dangdang.com/?key=%做人做事看德胜%&act=input)
-<br>[【回到顶部】](#readme)[【返回目录】](/README.md)
+<br>[【回到顶部】](#readme)<a href="../../../#营销共计64册已更完">【返回目录】</a>
 ###### 底
