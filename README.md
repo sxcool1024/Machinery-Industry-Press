@@ -11,14 +11,14 @@
 ###### <a href="/IT方面图书/part2.md#it方面part2共498册">IT方面part2共计498册(已更完)</a>
 ###### <a href="/IT方面图书/part3.md#it方面part3共498册">IT方面part3共计491册(已更完)</a>
 ###### <a href="/心理/README.md#心理学共23册">心理学共计23册(已更完)</a>
-###### <a href="https://github.com/sxcool1024/Machinery-Industry-Press/blob/master/IT%E6%96%B9%E9%9D%A2%E5%9B%BE%E4%B9%A6/part1.md">管理共计275册(已更完)</a>
-###### <a href="https://github.com/sxcool1024/Machinery-Industry-Press/blob/master/IT%E6%96%B9%E9%9D%A2%E5%9B%BE%E4%B9%A6/part1.md">经济共计104册(已更完)</a>
-###### <a href="https://github.com/sxcool1024/Machinery-Industry-Press/blob/master/IT%E6%96%B9%E9%9D%A2%E5%9B%BE%E4%B9%A6/part1.md">营销共计64册(已更完)</a>
-##### <a href="https://github.com/sxcool1024/Machinery-Industry-Press/blob/master/IT%E6%96%B9%E9%9D%A2%E5%9B%BE%E4%B9%A6/part1.md">英语共计132册(已更完)</a>
-##### <a href="https://github.com/sxcool1024/Machinery-Industry-Press/blob/master/IT%E6%96%B9%E9%9D%A2%E5%9B%BE%E4%B9%A6/part1.md">家用电器及办公设备共计159册(已更完)</a>
-##### <a href="https://github.com/sxcool1024/Machinery-Industry-Press/blob/master/IT%E6%96%B9%E9%9D%A2%E5%9B%BE%E4%B9%A6/part1.md">电子技术共计129册(已更完)</a>
-##### <a href="https://github.com/sxcool1024/Machinery-Industry-Press/blob/master/IT%E6%96%B9%E9%9D%A2%E5%9B%BE%E4%B9%A6/part1.md">机械基础共计54册(已更完)</a>
-##### <a href="https://github.com/sxcool1024/Machinery-Industry-Press/blob/master/IT%E6%96%B9%E9%9D%A2%E5%9B%BE%E4%B9%A6/part1.md">机械设计共计118册(已更完)</a>
+###### <a href="/管理/README.md#管理共计275册">管理共计275册(已更完)</a>
+###### <a href="/经济/README.md#经济共计104册">经济共计104册(已更完)</a>
+###### <a href="/营销/README.md#营销共计64册">营销共计64册(已更完)</a>
+##### <a href="/英语/README.md#英语共计132册">英语共计132册(已更完)</a>
+##### <a href="/家用电器及办公设备/README.md#家用电器及办公设备共计159册">家用电器及办公设备共计159册(已更完)</a>
+##### <a href="/电子技术/README.md#电子技术共计129册">电子技术共计129册(已更完)</a>
+##### <a href="/机械基础/README.md#机械基础共计54册">机械基础共计54册(已更完)</a>
+##### <a href="/机械设计/README.md#机械设计共计118册">机械设计共计118册(已更完)</a>
 
 
 
