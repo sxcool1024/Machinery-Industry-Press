@@ -1,4 +1,4 @@
-[【一键到底】](#底)[【返回目录】](/README.md)
+[【一键到底】](#底)<a href="../../../#机械基础共计54册已更完">【返回目录】</a>
 # 机械基础（共54册）
 *	1、	7天充好电——机械领域从业人员读本.pdf	[【下载】](https://474b.com/file/25713053-437615474)	[【当当网查看】](http://search.dangdang.com/?key=%7天充好电——机械领域从业人员读本%&act=input)
 *	2、	AutoCAD_2014中文版机械制图教程.pdf	[【下载】](https://474b.com/file/25713053-437615458)	[【当当网查看】](http://search.dangdang.com/?key=%AutoCAD_2014中文版机械制图教程%&act=input)
@@ -54,5 +54,5 @@
 *	52、	制图基础.pdf	[【下载】](https://474b.com/file/25713053-437615631)	[【当当网查看】](http://search.dangdang.com/?key=%制图基础%&act=input)
 *	53、	制图基础习题集.pdf	[【下载】](https://474b.com/file/25713053-437615586)	[【当当网查看】](http://search.dangdang.com/?key=%制图基础习题集%&act=input)
 *	54、	制图员岗位手册.pdf	[【下载】](https://474b.com/file/25713053-437615576)	[【当当网查看】](http://search.dangdang.com/?key=%制图员岗位手册%&act=input)
-<br>[【回到顶部】](#readme)[【返回目录】](/README.md)
+<br>[【回到顶部】](#readme)<a href="../../../#机械基础共计54册已更完">【返回目录】</a>
 ###### 底
