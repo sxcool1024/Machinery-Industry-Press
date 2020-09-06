@@ -1,4 +1,4 @@
-[【一键到底】](#底)<a href="../../../#管理共计275册已更完">【返回目录】</a>
+[【一键到底】](#底)<a href="../../../#管理学共计275册已更完">【返回目录】</a>
 # 管理学（共275册）
 *	1、	1_2TPM.pdf	[【下载】](https://474b.com/file/25713053-435925094)	[【当当网查看】](http://search.dangdang.com/?key=%1_2TPM%&act=input)
 *	2、	6秒钟情商.pdf	[【下载】](https://474b.com/file/25713053-435925101)	[【当当网查看】](http://search.dangdang.com/?key=%6秒钟情商%&act=input)
