@@ -1,4 +1,4 @@
-[【一键到底】](#底)[【返回目录】](/README.md)
+[【一键到底】](#底)<a href="../../../#管理学共计275册已更完">【返回目录】</a>
 # 管理学（共275册）
 *	1、	1_2TPM.pdf	[【下载】](https://474b.com/file/25713053-435925094)	[【当当网查看】](http://search.dangdang.com/?key=%1_2TPM%&act=input)
 *	2、	6秒钟情商.pdf	[【下载】](https://474b.com/file/25713053-435925101)	[【当当网查看】](http://search.dangdang.com/?key=%6秒钟情商%&act=input)
@@ -275,5 +275,5 @@
 *	273、	专业的力量：在自己的领域成为专家.pdf	[【下载】](https://474b.com/file/25713053-435928491)	[【当当网查看】](http://search.dangdang.com/?key=%专业的力量：在自己的领域成为专家%&act=input)
 *	274、	走向职场成功的36个密码.pdf	[【下载】](https://474b.com/file/25713053-435928493)	[【当当网查看】](http://search.dangdang.com/?key=%走向职场成功的36个密码%&act=input)
 *	275、	做个高效面试官升级版.pdf	[【下载】](https://474b.com/file/25713053-435928496)	[【当当网查看】](http://search.dangdang.com/?key=%做个高效面试官升级版%&act=input)
-<br>[【回到顶部】](#readme)[【返回目录】](/README.md)
+<br>[【回到顶部】](#readme)<a href="../../../#管理学共计275册已更完">【返回目录】</a>
 ###### 底
