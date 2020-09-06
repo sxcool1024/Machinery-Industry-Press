@@ -1,4 +1,4 @@
-[【一键到底】](#底)[【返回目录】](/README.md)
+[【一键到底】](#底)<a href="../../../#电子技术共计129册已更完">【返回目录】</a>
 # 电子技术（共129册）
 *	1、	CMOS集成电路EDA技术.pdf	[【下载】](https://474b.com/file/25713053-437693780)	[【当当网查看】](http://search.dangdang.com/?key=%CMOS集成电路EDA技术%&act=input)
 *	2、	DSP原理及应用——跟我动手学TMS320F2833x.pdf	[【下载】](https://474b.com/file/25713053-437693628)	[【当当网查看】](http://search.dangdang.com/?key=%DSP原理及应用——跟我动手学TMS320F2833x%&act=input)
@@ -129,5 +129,5 @@
 *	127、	组态软件基础与工程应用易控INSPEC.pdf	[【下载】](https://474b.com/file/25713053-437685118)	[【当当网查看】](http://search.dangdang.com/?key=%组态软件基础与工程应用易控INSPEC%&act=input)
 *	128、	最新常用电子管速查手册第2版.pdf	[【下载】](https://474b.com/file/25713053-437685105)	[【当当网查看】](http://search.dangdang.com/?key=%最新常用电子管速查手册第2版%&act=input)
 *	129、	最新常用集成块速查速用手册_第2册.pdf	[【下载】](https://474b.com/file/25713053-437685011)	[【当当网查看】](http://search.dangdang.com/?key=%最新常用集成块速查速用手册_第2册%&act=input)
-<br>[【回到顶部】](#readme)[【返回目录】](/README.md)
+<br>[【回到顶部】](#readme)<a href="../../../#电子技术共计129册已更完">【返回目录】</a>
 ###### 底
