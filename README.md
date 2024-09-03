@@ -23,5 +23,5 @@
 ###### <a href="/机械设计/README.md#机械设计共118册"> 汽车技术创新与研发系列丛书(待更新)</a>
 
 #### 。。。待更新
-# 电报交流群：https://t.me/sxcool1024gr
+# 电报交流群：https://t.me/sxcoolchannel
 [回到顶部](#readme)
